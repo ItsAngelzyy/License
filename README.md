@@ -1,2 +1,0 @@
-# License
-Nightzy License
